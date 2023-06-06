@@ -1,0 +1,61 @@
+button{
+    background-color: green;
+    color: white;
+    font-weight: 600;
+
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+.form-control img{
+    width: 350px;
+    height: 250px;
+}
+.form-control h5{
+    padding-left: 25px;
+}
+.form-control button{
+    align-items: start;
+    justify-content: center;
+    display: flex;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.form-control{
+    box-shadow: 10px 10px 30px -18px rgba(0,0,0,0.75);
+    color: black;
+    margin-inline: 10px;
+}
+
+/* Read  */
+.form img{
+    width: 400px;
+    height: 300px;
+    margin-inline: auto;
+}
+
+/* Add Blog */
+.lab label{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.lab input{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.lab textarea{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.lab select{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.form{
+    box-shadow: 10px 10px 30px -18px rgba(0,0,0,0.75);
+    color: black;
+    text-align: left;
+}

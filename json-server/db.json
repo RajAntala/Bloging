@@ -1,0 +1,92 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "images": "news-1.jpg",
+      "author": "Deep",
+      "category": "news",
+      "des": "News is information about current events. This may be provided through many different media: word of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and witnesses to events. News is sometimes called to differentiate it from soft media.",
+      "s_des": "When I talk about the greatest headlines of all time, it gives a connotation of the most creative titles. If I was writing about creative titles, I would go with something like, Why My Cat Has a Savings Account, or In Defense of the Figurative Use of Literally. These are both intriguing and creative titles. But these kinds of titles don't appeal to SEO, and they don't address the problems my clients are facing. Too many marketers make their titles too cute to be effective."
+    },
+    {
+      "id": 10,
+      "images": "news-2.jpg",
+      "author": "Adil",
+      "category": "news",
+      "des": "News is information about current events. This may be provided through many different media: word of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and witnesses to events. News is sometimes called to differentiate it from soft media.",
+      "s_des": "When I talk about the greatest headlines of all time, it gives a connotation of the most creative titles. If I was writing about creative titles, I would go with something like, Why My Cat Has a Savings Account, or In Defense of the Figurative Use of Literally. These are both intriguing and creative titles. But these kinds of titles don't appeal to SEO, and they don't address the problems my clients are facing. Too many marketers make their titles too cute to be effective."
+    },
+    {
+      "id": 2,
+      "images": "sport-1.jpg",
+      "author": "Deep",
+      "category": "sports",
+      "des": "Sport pertains to any form of physical activity or game,[1] often competitive and organised, that aims to use, maintain, or improve physical ability and skills while providing enjoyment to participants and, in some cases",
+      "s_des": "Sport participation is not easily defined and will often depend on how it is perceived by the observer. As a guide, a ‘sport participant’ is a person who takes part in a sporting activity, whether in a formal or informal capacity. Some examples of sport participation can be described by a particular role performed in sport (including playing and non-playing roles), such as an athlete (or player), coach (or trainer, instructor), or official (or umpire, referee). There are many roles in sport, and these can be volunteer or paid. How a person describes their engagement (such as solo or group, impromptu or scheduled, or the place/setting) can also help to determine if their sport participation is organised or not.Sport participation settings: where and ‘how’ do Australians play sport, Eime, R., Harvey, J. & Charity, M. BMC Public Health 20, 1344 (2020)."
+    },
+    {
+      "id": 8,
+      "images": "sport-2.jpeg",
+      "author": "Yash",
+      "category": "sports",
+      "des": "Sport pertains to any form of physical activity or game,[1] often competitive and organised, that aims to use, maintain, or improve physical ability and skills while providing enjoyment to participants and, in some cases",
+      "s_des": "Sport participation is not easily defined and will often depend on how it is perceived by the observer. As a guide, a ‘sport participant’ is a person who takes part in a sporting activity, whether in a formal or informal capacity. Some examples of sport participation can be described by a particular role performed in sport (including playing and non-playing roles), such as an athlete (or player), coach (or trainer, instructor), or official (or umpire, referee). There are many roles in sport, and these can be volunteer or paid. How a person describes their engagement (such as solo or group, impromptu or scheduled, or the place/setting) can also help to determine if their sport participation is organised or not.Sport participation settings: where and ‘how’ do Australians play sport, Eime, R., Harvey, J. & Charity, M. BMC Public Health 20, 1344 (2020)."
+    },
+    {
+      "id": 9,
+      "images": "sport-3.jpg",
+      "author": "Varshil",
+      "category": "sports",
+      "des": "Sport pertains to any form of physical activity or game,[1] often competitive and organised, that aims to use, maintain, or improve physical ability and skills while providing enjoyment to participants and, in some cases",
+      "s_des": "Sport participation is not easily defined and will often depend on how it is perceived by the observer. As a guide, a ‘sport participant’ is a person who takes part in a sporting activity, whether in a formal or informal capacity. Some examples of sport participation can be described by a particular role performed in sport (including playing and non-playing roles), such as an athlete (or player), coach (or trainer, instructor), or official (or umpire, referee). There are many roles in sport, and these can be volunteer or paid. How a person describes their engagement (such as solo or group, impromptu or scheduled, or the place/setting) can also help to determine if their sport participation is organised or not.Sport participation settings: where and ‘how’ do Australians play sport, Eime, R., Harvey, J. & Charity, M. BMC Public Health 20, 1344 (2020)."
+    },
+    {
+      "id": 3,
+      "images": "tecnology-1.jpeg",
+      "author": "Varshil",
+      "category": "technology",
+      "des": "Technological advancements have led to significant changes in society. The earliest known technology is the stone tool, used during prehistoric times, followed by the control of fire, which contributed to the growth of the human brain and the development of language during the Ice Age.",
+      "s_des": "Your challenges are to deliver useful information and added value, and maximising your brand is key. We help you overcome these challenges by handling the content technology for you, so you can focus on what you do best: creating the content. We help you do this by using the latest innovations in multi-channel publishing, digital asset management, digital publishing, and creative & automation software.At Creative Folks, we enable you to deliver your content in a way your customers want to consume it. We use the latest cutting edge technologies to do this. And we have the expertise to recommend and implement the best platforms to reach your audience and promote your brand.We DON’T just “supply software”: it’s about recognising the business problem (or opportunity), coming up with the strategy, then building out the plans and workflows. Our experience doing this for dozens of customers adds significant value to future customers."
+    },
+    {
+      "id": 11,
+      "images": "tecnology-2.jpg",
+      "author": "Varshil",
+      "category": "technology",
+      "des": "Technological advancements have led to significant changes in society. The earliest known technology is the stone tool, used during prehistoric times, followed by the control of fire, which contributed to the growth of the human brain and the development of language during the Ice Age.",
+      "s_des": "Your challenges are to deliver useful information and added value, and maximising your brand is key. We help you overcome these challenges by handling the content technology for you, so you can focus on what you do best: creating the content. We help you do this by using the latest innovations in multi-channel publishing, digital asset management, digital publishing, and creative & automation software.At Creative Folks, we enable you to deliver your content in a way your customers want to consume it. We use the latest cutting edge technologies to do this. And we have the expertise to recommend and implement the best platforms to reach your audience and promote your brand.We DON’T just “supply software”: it’s about recognising the business problem (or opportunity), coming up with the strategy, then building out the plans and workflows. Our experience doing this for dozens of customers adds significant value to future customers."
+    },
+    {
+      "id": 4,
+      "images": "Politics-1.jpg",
+      "author": "Nevil",
+      "category": "politics",
+      "des": "A political system is a framework which defines acceptable political methods within a society. The history of political thought can be traced back to early antiquity",
+      "s_des": "In some regions, election ads may run only if the advertiser is verified by Google. In these regions, election ads are subject to disclosure requirements and targeting restrictions; see below for additional information. Google Ad Grants accounts are not eligible to run election ads or apply for election ads verification in these regions. Check the information under the applicable regional heading for verification and restriction information.In other regions, there are restrictions on political ads. See below for a list of these regions and what is prohibited. There may be additional prohibitions or requirements listed in the local legal requirements policy.If your ads contain political content that is not restricted here or by the local legal requirements for a given region, your ads may run as long as they are compliant with all other Google Ads policies and local laws and regulations."
+    },
+    {
+      "id": 5,
+      "images": "Politics-2.jpg",
+      "author": "Mayank",
+      "category": "politics",
+      "des": "A political system is a framework which defines acceptable political methods within a society. The history of political thought can be traced back to early antiquity",
+      "s_des": "In some regions, election ads may run only if the advertiser is verified by Google. In these regions, election ads are subject to disclosure requirements and targeting restrictions; see below for additional information. Google Ad Grants accounts are not eligible to run election ads or apply for election ads verification in these regions. Check the information under the applicable regional heading for verification and restriction information.In other regions, there are restrictions on political ads. See below for a list of these regions and what is prohibited. There may be additional prohibitions or requirements listed in the local legal requirements policy.If your ads contain political content that is not restricted here or by the local legal requirements for a given region, your ads may run as long as they are compliant with all other Google Ads policies and local laws and regulations."
+    },
+    {
+      "id": 6,
+      "images": "Politics-3.jpeg",
+      "author": "Jogani",
+      "category": "politics",
+      "des": "A political system is a framework which defines acceptable political methods within a society. The history of political thought can be traced back to early antiquity",
+      "s_des": "In some regions, election ads may run only if the advertiser is verified by Google. In these regions, election ads are subject to disclosure requirements and targeting restrictions; see below for additional information. Google Ad Grants accounts are not eligible to run election ads or apply for election ads verification in these regions. Check the information under the applicable regional heading for verification and restriction information.In other regions, there are restrictions on political ads. See below for a list of these regions and what is prohibited. There may be additional prohibitions or requirements listed in the local legal requirements policy.If your ads contain political content that is not restricted here or by the local legal requirements for a given region, your ads may run as long as they are compliant with all other Google Ads policies and local laws and regulations."
+    },
+    {
+      "id": 7,
+      "images": "Politics-2.jpg",
+      "author": "raj",
+      "category": "politics",
+      "des": "A political system is a framework which defines acceptable political methods within a society. The history of political thought can be traced back to early antiquity",
+      "s_des": "In some regions, election ads may run only if the advertiser is verified by Google. In these regions, election ads are subject to disclosure requirements and targeting restrictions; see below for additional information. Google Ad Grants accounts are not eligible to run election ads or apply for election ads verification in these regions. Check the information under the applicable regional heading for verification and restriction information.In other regions, there are restrictions on political ads. See below for a list of these regions and what is prohibited. There may be additional prohibitions or requirements listed in the local legal requirements policy.If your ads contain political content that is not restricted here or by the local legal requirements for a given region, your ads may run as long as they are compliant with all other Google Ads policies and local laws and regulations."
+    }
+  ]
+}
